@@ -1,0 +1,249 @@
+body {
+  background-color: rgb(253, 240, 213);
+  height: 8500px;
+}
+
+@font-face{
+  font-family: myFont;
+  src: url(font-de-folosit/CoolveticaRg.ttf.ttf);
+}
+
+@font-face{
+  font-family: myFont-thinner;
+  src: url(font-de-folosit/CoolveticaRgCond.ttf.ttf);
+}
+
+.titlu-principal-class {
+  font-family: myFont;
+  text-align: center;
+  font-size: 70px;
+}
+
+.informatii-class {
+  font-family: myFont;
+  font-size: 50px;
+}
+
+.margin-bottom-class {
+  margin-bottom: 70px;
+}
+
+.another-margin-class {
+  margin-bottom: 100px;
+}
+
+.margin-left-class {
+  margin-left: 120px;
+}
+
+.margin-top {
+  margin-top: 120px;
+}
+
+.margin-bottom-classs {
+  margin-bottom: 30px;
+}
+
+.informatii-grid-class {
+  display: grid;
+  grid-template-columns: 1100px 150px;
+}
+
+.harta-stepa-class {
+  width: 600px;
+  height: 600px;
+  border-radius: 25px;
+}
+
+.a-doua-informatii-class {
+  font-family: myFont;
+  font-size: 25px;
+}
+
+.animale-stepa-class {
+  width: 300px;
+  height: 300px;
+  border-radius: 25px;
+  object-fit: cover;
+}
+
+.animale-stepa-flex-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.titlu-animale-stepa-class {
+  font-family: myFont;
+  font-size: 30px;
+}
+
+.alte-informatii-class {
+  font-family: myFont;
+  font-size: 25px;
+}
+
+.plante-stepa-png-class {
+  width: 300px;
+  height: 300px;
+  border-radius: 25px;
+  object-fit: cover;
+}
+
+.plante-stepa-flex-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.silvostepa-flex-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.silvo-stepa-informatii-class {
+  font-family: myFont;
+  font-size: 50px;
+}
+
+.harta-silvostepa-class {
+  width: 700px;
+  height: 700px;
+  border-radius: 25px;
+}
+
+.titlu-silvostepa-class {
+  font-family: myFont;
+  font-size: 30px;
+}
+
+.animale-silvostepa-class {
+  width: 350px;
+  height: 350px;
+  border-radius: 25px;
+  object-fit: cover;
+}
+
+.a-doua-silvostepa-flex-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.flex-plante-silvostepa-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.plante-silvostepa-class {
+  width: 350px;
+  height: 350px;
+  border-radius: 25px;
+}
+
+.title-padure-class {
+  font-family: myFont;
+  font-size: 30px;
+}
+
+.informatii-padure-class {
+  font-family: myFont;
+  font-size: 50px;
+}
+
+.poza-exemplu-padure-class {
+  width: 700px;
+  height: 700px;
+  border-radius: 25px;
+}
+
+.padure-flex-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.animale-padure-class {
+  width: 350px;
+  height: 350px;
+  border-radius: 25px;
+  object-fit: cover;
+}
+
+.animale-flex-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.informatii-animale-padure-class {
+  font-family: myFont;
+  font-size: 25px;
+}
+
+.plante-padure-class {
+  width: 350px;
+  height: 350px;
+  border-radius: 25px;
+}
+
+.padure-pngs-flex-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.informatii-plante-class {
+  font-family: myFont;
+  font-size: 25px;
+}
+
+.flex-rezervatia-marina-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 150px;
+}
+
+.informatii-rezervatie-class {
+  font-family: myFont;
+  font-size: 40px;
+}
+
+.rezervatie-png-class {
+  width: 800px;
+  height: 700px;
+  border-radius: 25px;
+  object-fit: cover;
+}
+
+.biodiversitea-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Biodiversitatea-informatii-class {
+  font-family: myFont;
+  font-size: 40px;
+}
+
+.pasari-protejate-class {
+  width: 300px;
+  height: 300px;
+  border-radius: 25px;
+  object-fit: cover;
+}
+
+.flex-pasari-protejate-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.pasari-protejate-informatii-class {
+  font-family: myFont;
+  font-size: 20px;
+}
